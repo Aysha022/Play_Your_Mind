@@ -16,11 +16,8 @@ Our Project "Play Your Mind" can read your emotions from your face and pour the 
 
 ## Technical Details
 ### Technologies/Components Used
-
 For Software:
-- 
--
--
+
 
 ### Implementation
 
