@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/dc99b156-ab44-4732-bd53-0e05ff9bd2ed
 # Play_Your_Mind 🎯
 ## Basic Details
 ### Team Name : Hackstone
@@ -73,14 +72,7 @@ Results include the song name and a clickable Spotify link for immediate access.
 
 ### Project Demo
 # Video
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/dc99b156-ab44-4732-bd53-0e05ff9bd2ed
 
 
 ## Team Contributions
