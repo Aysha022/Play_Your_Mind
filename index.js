@@ -75,5 +75,3 @@ analyzeButton.addEventListener('click', () => {
         }
     });
 });
-
-    
