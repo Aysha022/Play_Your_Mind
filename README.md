@@ -24,3 +24,27 @@ For Software:
 
 # Installation
 
+# Run
+
+## Project Documentation
+For Software:
+
+
+# Screenshots
+
+# Diagrams
+
+# Schematic & Circuit
+
+# Build Photos
+
+
+### Project Demo
+# Video
+
+# Additional Demos
+
+## Team Contributions
+
+---
+Made with ❤️ at TinkerHub
