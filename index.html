@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Play Your Mind</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Play_your_mind</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
     <h1>🎭 Play Your Mind 🎵</h1>
@@ -29,12 +29,19 @@
     
     <!-- Analyze Emotion -->
     <button id="analyze">Analyze Emotion</button>
+
     <h3 id="emotionResult"></h3>
+    
 
-    <!-- Music Player -->
-    <h2>🎶 Recommended Song 🎶</h2>
-    <audio id="audioPlayer" controls style="display: none;"></audio>
+    <!-- Emotion and Song Result Display Section -->
+    <div id="songResult" style="display: none;">
+        <h3>Emotion:</h3>
+        <p id="emotion"></p>
+        <h3>Song Recommendation:</h3>
+        <a id="songLink" target="_blank">Play Song</a>
+    </div>
 
-    <script src="app.js"></script>
+
+    <script src="{{ url_for('static', filename='index.js') }}"></script>
 </body>
 </html>
