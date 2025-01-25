@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/dc99b156-ab44-4732-bd53-0e05ff9bd2ed
 # Play_Your_Mind 🎯
 ## Basic Details
 ### Team Name : Hackstone
@@ -53,6 +55,11 @@ Results include the song name and a clickable Spotify link for immediate access.
 
 
 # Screenshots
+![WhatsApp Image 2025-01-25 at 6 39 07 PM (1)](https://github.com/user-attachments/assets/d7dc009b-239c-48ca-9bf0-98ab2e2150c1)
+![WhatsApp Image 2025-01-25 at 6 39 07 PM](https://github.com/user-attachments/assets/973598e9-d250-4e78-b923-cd172873fec9)
+![WhatsApp Image 2025-01-25 at 6 39 06 PM](https://github.com/user-attachments/assets/1102ed25-7634-4908-b1b3-2861891dff2d)
+![WhatsApp Image 2025-01-25 at 6 39 05 PM](https://github.com/user-attachments/assets/d5b4c279-1c37-4091-a2f5-81eb34634fe5)
+![WhatsApp Image 2025-01-25 at 6 39 04 PM](https://github.com/user-attachments/assets/5d6450f7-99b3-4f3b-bdbb-d432abd04647)
 
 
 # Build Photos
@@ -67,7 +74,10 @@ Results include the song name and a clickable Spotify link for immediate access.
 ### Project Demo
 # Video
 
-Uploading WhatsApp Video 2025-01-25 at 6.36.10 PM.mp4…
+
+
+
+
 
 
 
