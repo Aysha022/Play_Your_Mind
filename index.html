@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Your Mind</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>🎭 Play Your Mind 🎵</h1>
+
+    <!-- Option to Choose Camera or Upload -->
+    <button id="openCamera">Use Camera</button>
+    <button id="openUpload">Upload Image</button>
+
+    <!-- Webcam Section -->
+    <div id="cameraSection" style="display: none;">
+        <video id="video" width="400" height="300" autoplay></video>
+        <button id="capture">Capture Photo</button>
+    </div>
+
+    <!-- Upload Image Section -->
+    <div id="uploadSection" style="display: none;">
+        <input type="file" id="upload" accept="image/*">
+    </div>
+
+    <!-- Display Image -->
+    <canvas id="canvas" width="400" height="300"></canvas>
+    
+    <!-- Analyze Emotion -->
+    <button id="analyze">Analyze Emotion</button>
+    <h3 id="emotionResult"></h3>
+
+    <!-- Music Player -->
+    <h2>🎶 Recommended Song 🎶</h2>
+    <audio id="audioPlayer" controls style="display: none;"></audio>
+
+    <script src="app.js"></script>
+</body>
+</html>
