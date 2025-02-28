@@ -1,4 +1,3 @@
-
 # Play_Your_Mind 🎯
 ## Basic Details
 ### Team Name : Hackstone
